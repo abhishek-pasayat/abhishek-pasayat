@@ -37,4 +37,4 @@ Passionate about building scalable and maintainable automation frameworks using 
 - API Automation Framework
 
 ## Connect With Me
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/abhishekpasayat/
